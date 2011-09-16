@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SlackeyRegular';
+    src: url('/fonts/slackey-webfont.eot');
+    src: url('/fonts/slackey-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/slackey-webfont.woff') format('woff'),
+         url('/fonts/slackey-webfont.ttf') format('truetype'),
+         url('/fonts/slackey-webfont.svg#SlackeyRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
